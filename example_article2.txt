@@ -1,0 +1,180 @@
+Abstract
+Objectives. To determine whether Caribbean states vary in health policy performance in 11 different areas; to explore the association with sociodemographic, economical, and governance determinants; and to estimate the potential health gains of “best-practice” health policies.
+
+Methods. We selected 50 indicators that included data on mortality (latest available, 2010–2015), intermediate outcomes, and policy implementation to calculate a state’s health policy performance score. We related this score to country characteristics and calculated the potential number of avoidable deaths if the age-specific mortality rates of best-performer Martinique applied in all states.
+
+Results. We found large differences in health policy performance among Caribbean states. Martinique, Cuba, and Guadeloupe had the highest performance scores, and Guyana, Belize, and Suriname the lowest. Political affiliation, religious fractionalization, corruption, national income, and population density were associated with health policy performance. If the mortality rates of Martinique applied to all Caribbean states, an overall mortality reduction of 12% would be achieved.
+
+Conclusions. Differences in health outcomes between Caribbean states are partly attributable to variations in health policy implementation. Our results suggest that many deaths can be prevented if Caribbean governments adopt best-practice policies.
+
+Substantial evidence shows that the implementation of effective health policies leads to declines in mortality from causes that are amenable to policy interventions. For example, implementation of alcohol-control policies has effectively reduced alcohol-related mortality in many populations.1 Maternal and neonatal mortality rates have declined through policies aiming at safer pregnancy and childbirth.2 Cervical and breast cancer mortality rates declined after the introduction of cancer screening programs.3,4
+
+In the Caribbean, however, a decade after local governments acknowledged the severity of the region’s health crisis and committed to address their populations’ needs, effective health policies were still not implemented.5 Caribbean states also vary greatly in population health outcomes—for example, in life expectancy,6 cervical cancer morbidity and mortality,7 adolescent health,8 and homicide rates.9 In this article, we combined data on health policy implementation with data on health outcomes to create a comprehensive picture of health policy performance in all Caribbean states with available data.
+
+Our purpose was to inform policy strategies aimed at improving population health in the Caribbean by carrying out a broad cross-country comparison of health policy performance and by identifying Caribbean states that perform better or worse than others. Our study covered 11 policy areas related to the regional health objectives of the Pan American Health Organization (PAHO):
+
+1.
+HIV/AIDS;
+
+2.
+Communicable disease;
+
+3.
+Cancer screening;
+
+4.
+Tobacco;
+
+5.
+Fertility, pregnancy, and childbirth;
+
+6.
+Child health;
+
+7.
+Diabetes;
+
+8.
+Hypertension;
+
+9.
+Alcohol;
+
+10.
+Road safety; and
+
+11.
+Violence.
+
+We also explored the demographic, economic, health system, political, governance, and cultural determinants of variations in health policy performance within the Caribbean region. Finally, we calculated the potential health gains if all Caribbean states would implement best-practice health policies.
+
+Go to:
+METHODS
+We defined the Caribbean by PAHO’s definition and included Belize because of its strong historical and economic ties to the Caribbean. The source of mortality data was the World Health Organization’s (WHO’s) mortality database.10 A detailed description of the calculation of the mortality rates is given in the Appendix. In short, considering that many Caribbean states have small populations, we included up to 5 years of the most recent data during the 2010–2015 period for each Caribbean state. We then systematically assessed whether the mortality data of each state was suitable for inclusion in our analysis by using 3 criteria: (1) the total number of deaths was 500 or more, (2) causes of death were registered for at least 70% of deaths in the vital registration, and (3) quality assessment of the cause-of-death data according to WHO’s Analysing Mortality Levels and Causes-of-Death Electronic Tool program was found to be sufficient.11 We judged mortality data of 16 Caribbean states suitable for inclusion. Data sources for policy implementation and intermediate outcome indicators are listed in the notes of Table C (available as a supplement to the online version of this article at http://www.ajph.org). Data sources for national determinants are listed in the notes of Table 1.
+
+TABLE 1—
+Association Between Health Policy Performance Summary Score and Country Characteristics: 16 Caribbean States, 2010–2015
+
+Indicator	No.	r	r2	P
+Demographic characteristicsa				
+ Population, no.	16	0.35	0.12	.18
+ Population density, km2	16	0.58	0.33	.019
+Economical characteristic: GDP per capita, current US$a	15	0.59	0.34	.021
+Health system characteristicsb				
+ Total health expenditure, % of the GDP	11	0.21	0.45	.53
+ Total expenditure on health per capita at purchasing power parity, NCU per US$	11	0.02	< 0.01	.95
+ General government expenditure on health per capita purchasing power parity, NCU per US$	11	0.17	0.03	.63
+ General government expenditure on health, % of GDP	11	0.60	0.35	.053
+Governance characteristics				
+ Current sovereignty statusc	16	0.66	0.47	< .01
+ Years since independencec	16	−0.19	0.04	.48
+ Government effectivenessd	15	0.44	0.19	.10
+ Voice and accountabilityd	15	−0.25	0.06	.37
+ Political stability and absence of violence/terrorismd	15	0.23	0.05	.42
+ Regulatory qualityd	15	0.28	0.08	.30
+ Rule of lawd	15	0.30	0.09	.28
+ Control of corruptiond	15	0.54	0.29	.037
+Cultural characteristicse				
+ Ethnic fractionalization index	11	−0.44	0.20	.17
+ Language fractionalization index	16	−0.42	0.17	.11
+ Religion fractionalization index	16	−0.64	0.42	< .01
+Open in a separate window
+Note. GDP = gross domestic product; NCU = national currency unit.
+
+aPopulation (in numbers), population density (in km2), GDP per capita (current US$), 2000, were extracted from the United Nations database (http://data.un.org).
+bTotal health expenditure as % of the GDP, total expenditure on health per capita at purchasing power parity (NCU per US$), general government expenditure on health per capita purchasing power parity (NCU per US$), and general government expenditure on health as % of GDP, 2004, were extracted from the World Health Organization Global Health Expenditures database (http://apps.who.int/nha/database).
+cCurrent political sovereignty (1 = sovereign; 2 = affiliated) and years since independence, 2010, were derived from Verstraeten et al.12
+dGovernment effectiveness, voice and accountability, political stability and absence of violence/terrorism, regulatory quality, rule of law, and control of corruption (ranges from −2.5 [weak] to 2.5 [strong] governance performance), 2000, were extracted from the Worldwide Governance Indicators database (http://info.worldbank.org/governance/wgi/#home).
+eEthnic fractionalization index, language fractionalization index, and religion fractionalization index (ranges from 0 [low] to 1 [high] diversity), 2001, were extracted from Alesina et al.13
+We followed the methods of Mackenbach and McKee, which are briefly described next.14,15 For each of the 16 Caribbean states, we searched data on policy implementation and intermediate outcome indicators. We aimed to include at least 1 indicator on policy implementation, 1 indicator on intermediate health outcomes, and 1 indicator on final health outcomes for each policy area. Policy implementation indicators measure the degree to which a policy is successfully implemented (e.g., the alcohol policy sum score depicts the extensiveness with which recommendations on effective alcohol policies are implemented). Intermediate outcome indicators measure health risks that are directly influenced by policy implementation (e.g., total alcohol consumption among drinkers). Final outcome indicators measure the deaths that could have been avoided by public health interventions (e.g., mortality from alcohol-related causes). Preferably, measurements of indicator(s) on policy implementation and intermediate outcomes preceded measurement of indicator(s) on final outcomes with at least 5 years. Because of limited data availability, this was not possible for all policy areas (Table C). We included up to 50 indicators per country and were able to cover all 11 policy areas for each country.
+
+As a basis for the calculation of our health policy performance score, we first used correlation analysis to evaluate whether policy implementation had likely had an impact on the level of related health outcomes. Next, we calculated a performance summary score per state by assessing whether a state fell in the lower, intermediate, or upper tertile of the Caribbean distribution of each indicator, followed by subtracting, for each country, the percentage of scores in the upper tertile from the percentage of scores in the lower tertile. For example, of the 48 indicators that were included for Cuba, 33 indicators (68.8%) fell in the upper tertile and 8 indicators (16.7%) fell in the lower tertile of the Caribbean distribution. Cuba’s summary score was therefore 68.8%–16.7% = 52.1% (Table D, available as a supplement to the online version of this article at http://www.ajph.org). To explore determinants of health policy performance, we used correlation analysis to relate the summary score to country characteristics. We attempted to only include data that preceded the policy indicators for at least 5 years, but this was not always possible because of limited data availability (Table 1).
+
+Finally, for each of the selected causes of death, we calculated the annual average number of deaths and the potential years of life lost. We calculated the potential years of life lost by taking the difference between the age of death and age 75 years. This is a conservative estimate; life expectancy at birth exceeds 75 years in many Caribbean states. We used the age-specific mortality rates of the state with the highest summary score, Martinique, to estimate potential health gains per policy area by calculating the number of deaths that would have occurred if the age-specific mortality rates of Martinique would have applied, and by subtracting that number from the observed number of deaths.
+
+Go to:
+RESULTS
+For all health indicators, we found considerable differences among Caribbean states (Table C). Correlations between indicators for policy implementation, intermediate health outcomes, and final health outcomes were largely in accordance with what one would expect if policy implementation induces changes in intermediate outcomes and if changes in intermediate outcomes induce changes in final outcomes (Figure A, available as a supplement to the online version of this article at http://www.ajph.org). For example, HIV/AIDS mortality varied from 1.6 to 45.2 deaths per 100 000 population in a pattern that was consistent with coverage of antiretroviral therapy (Figure A[a]). A high score for the International Health Regulations’ core capacity “surveillance” was negatively associated with communicable disease mortality in children (Figure A[b]) and was also weakly but negatively associated with communicable disease mortality in adults. This suggests that higher communicable disease mortality could indeed be a consequence of a state’s substandard ability to monitor infectious disease.
+
+The 2 Caribbean countries with a cancer policy sum score of 0 because they did not have a national policy and action plan in place and did not provide free cancer-screening programs, Belize and St Vincent and the Grenadines, also had relatively high cervical cancer mortality (Figure A[c]). In Cuba and Guadeloupe (nearly) all deliveries were attended by trained personnel, and the perinatal mortality rates were accordingly low (Figure A[d]). The indicator “deliveries attended by trained personnel” also weakly correlated with low maternal mortality and, while not directly related, low levels of adolescent pregnancies. Alcohol consumption was relatively low in Cuba and the Bahamas, which are both countries with a high number of policy interventions to limit alcohol use (Figure A[e]). The more effective a state was in the enforcement of speed laws, the lower the rates of male road traffic deaths (Figure A[f]), although this association was weak.
+
+For 2 policy areas, “tobacco” and “violence,” the policy implementation indicators were not related to the intermediate and final outcomes in the expected way, but in these cases, on the basis of previous studies, we nevertheless think that variation in intermediate and final outcomes do reflect differences in policy implementation.14,16 The number of implemented smoking policies was weakly but positively associated with the smoking prevalence rate, and the latter was not associated with lung cancer mortality. This probably indicates that states were more likely to implement tobacco-control measures when smoking prevalence was already high, and that current lung cancer mortality rates reflect smoking prevalence several decades ago. More restrictions in laws and other regulations that a civilian faces to obtain or own a gun were weakly but negatively associated with a lower number of firearms per 100 population in a territory. However, more-restrictive gun policy was not associated with lower male or female homicide mortality, possibly because of differences in the enforcement of civilian gun laws and regulations that were not picked up by this policy implementation indicator.
+
+For 3 policy areas—diabetes, hypertension, and child health—policy implementation indicators were not available. We therefore had to assume that the outcome indicators indeed reflected policy implementation, which is not unreasonable in view of the fact that (1) diabetes and hypertension screening methods and treatments, as well as dietary salt reduction programs to prevent hypertension, are applied on a large but varying scale in the Caribbean, and (2) child health services are typically distributed through governmental programs. A high prevalence of obesity was associated with raised blood glucose in men but not in women. Raised blood glucose, in turn, was associated with male and female diabetes mortality. Female stroke mortality was higher in Caribbean states where the average systolic blood pressure was also high. Measles vaccination coverage was lower than 90% in Guadeloupe, Jamaica, and Suriname, suggesting that herd immunity was compromised.
+
+Supported by the associations found between indicators of policy implementation, intermediate outcomes, and final outcomes, we calculated, for each Caribbean state, a health policy performance summary score that indicated the relative performance of a country for all policy areas together (Table D). In descending order, Martinique, Cuba, and Guadeloupe had the highest summary scores, and Guyana, Belize, and Suriname the lowest (Figure 1).
+
+An external file that holds a picture, illustration, etc.
+Object name is AJPH.2018.304733f1.jpg
+FIGURE 1—
+Health Policy Performance Score, by Country: 16 Caribbean States, 2010–2015
+
+Note. For each Caribbean state separately, we calculated the health policy performance summary score by evaluating whether a state fell in the lower, intermediate, or upper tertile for a certain indicator, followed by extracting the percentage of scores in the upper tertile from the percentage of scores in the lower tertile. For example, of the 48 indicators that were included for Cuba, 33 indicators (68.8%) fell in the upper tertile and 8 indicators (16.7%) fell in the lower tertile of the Caribbean distribution. Cuba’s summary score was therefore 68.8%–16.7% = 52.1%.
+
+Health Policy Performance and Country Characteristics
+In univariate regression analyses, we then explored which country characteristics were associated with variation in summary scores (Table 1). We observed statistically significant associations between higher summary scores and higher population density, higher gross domestic product (GDP) per capita, a nonsovereign political status, higher control of corruption, and lower religious fractionalization. Of the included country characteristics, sovereignty status was most strongly associated to the summary score: it explained 47% of the variation, with higher scores for Caribbean states that have remained politically affiliated to their former colonizer.
+
+The strength of these associations increased when we omitted the best-performing sovereign state, Cuba, and we then also found additional significant associations between higher summary scores and a shorter postindependence period, higher government effectiveness, better regulatory quality and rule of law, and lower ethnic fractionalization (Table E, available as a supplement to the online version of this article at http://www.ajph.org). We performed a similar analysis on 3 partial summary scores for policy implementation, intermediate outcomes, and final outcomes separately, but did not find consistent differences between partial summary scores in their associations with country characteristics, either with (Table F, available as a supplement to the online version of this article at http://www.ajph.org) or without (results not shown) the inclusion of Cuba.
+
+Calculation of Potential Health Gains
+Table 2 depicts, per policy area, the number of observed deaths, the potential years of life lost, and the number of potentially avoidable deaths if all Caribbean states had the age-standardized mortality rates of the best-performer, Martinique. Overall, an annual average of 97 480 men and 82 166 women died in the 16 included Caribbean states. For the selected causes, we found the largest number of deaths for cerebrovascular disease for both genders. The principal cause of lost years of Caribbean men, by far, was homicide or assault. For women, the main cause of lost years was diabetes, closely followed by breast cancer.
+
+TABLE 2—
+Average Number of Deaths, Potential Years of Life Lost, and Potentially Avoidable Deaths in Caribbean States (n = 16), by Gender and Policy Area, ca. 2013
+
+Men
+Women
+Health Policy Area	Related Cause(s) of Death	Deaths, No.	PYLL, No.	Potentially Avoidable Deaths,a No.	Potentially Avoidable Deaths, %	Deaths, No.	PYLL, No.	Potentially Avoidable Deaths,a No.	Potentially Avoidable Deaths, %
+HIV/AIDS	HIV/AIDS	1 392	43 940	1 116	80	758	26 358	593	78
+Communicable disease	Communicable disease, excluding HIV/AIDS	1 315	33 407	525	40	796	20 293	143	18
+Cancer screening	Malignant neoplasms of the breast	. . .	. . .	. . .	. . .	2 970	37 374	80	3
+Malignant neoplasms of cervix uteri	. . .	. . .	. . .	. . .	1 009	17 826	644	64
+Tobacco	Malignant neoplasms of trachea, bronchus, and lung	4 501	35 402	2 582	57	2 440	19 820	1 277	52
+Fertility, pregnancy, and childbirth	Maternal mortality	. . .	. . .	. . .	. . .	139	6 493	34	24
+Child health	Accidental injury among children aged 0–14 y	143	9 896	21	14	67	4 723	−52	. . .
+Diabetes	Diabetes mellitus	5 350	41 004	2 374	44	6 571	38 877	2 873	44
+Hypertension	Cerebrovascular diseases (stroke)	8 126	47 939	2 548	31	8 481	33 705	3 207	38
+Alcohol	Alcohol-related diseases, excluding external causes	2 346	39 003	−97	. . .	567	7 272	191	34
+Road safety	Road traffic accidents	1 893	62 277	325	17	471	15 972	384	82
+Violence	Homicide/assault	2 718	114 243	2 198	81	401	15 693	385	96
+Total	27 783	427 111	11 492	41	24 668	244 406	9 758	40
+Open in a separate window
+Note. PYLL = potential years of life lost.
+
+aThe annual average of potentially avoidable deaths when age-specific mortality rates of best-performer Martinique would have applied.
+If the mortality rates of Martinique applied in the 15 other Caribbean states, 11 492 male and 9758 female deaths for the included causes of death could have been avoided annually. For men, the largest gains would be attained for lung cancer and cerebrovascular disease. For women, it would be cerebrovascular disease and diabetes. The potential for mortality reduction varies greatly among Caribbean states (Figure 2). We found the largest relative reductions in total mortality in Belize, where one third (32%) of the total number of deaths could potentially be avoided. We observed the largest absolute reduction in the country with the largest population, Cuba. Overall and in the Caribbean as a whole, the total number of deaths could have been reduced by 12% for both men and women.
+
+An external file that holds a picture, illustration, etc.
+Object name is AJPH.2018.304733f2.jpg
+FIGURE 2—
+Potential Annual Reduction in Mortality if Martinique’s Death Rates Applied for the Causes of Death Related to the 11 Policy Areas: 16 Caribbean States, 2010–2015
+
+For alcohol-related diseases among men and accidental injury among women, the number of potentially avoidable deaths was negative. This means that, for these specific causes, the age-specific mortality rates of Martinique were higher than in several other Caribbean states. It shows that although Martinique may have done well in terms of low mortality rates for most causes of death, improvement for these causes is still attainable.
+
+Go to:
+DISCUSSION
+The main strength of our study is that it used the available data from harmonized databases to generate comprehensive evidence on health policy performance in a large number of Caribbean territories. Moreover, we estimated the potential impact of implementation of best-practice policies, which informs national governments about the consequences of continued inaction and should stimulate them to do better.
+
+Limitations
+Our study also had several limitations. First, the incompleteness of cause-of-death data in several states, as well as the limited data coverage in terms of number of states and number of health indicators per state may challenge the representativeness and validity of our results. For example, we noticed that fewer data on policy implementation and intermediate outcomes were available for nonsovereign Caribbean states (Table C). Given these Western countries’ long-standing tradition in evidence-based policy making in their continental territories, this is rather surprising. The representativeness of our results for the Caribbean as a whole and the validity of our health policy performance estimates for the 16 countries included in the analysis would decidedly be better if data coverage were more complete.
+
+Second, our study design did not allow a more rigorous impact evaluation of health policies—for example, with methods proposed by the World Bank.17 The effectiveness of these policies, however, has already been demonstrated.14 Moreover, given the limited research capacity in the Caribbean region, thorough impact evaluation studies may not be feasible,18,19 while the current state of population health in many Caribbean states urges immediate action.20
+
+A third limitation is that the small number of states for which data were available needs to be considered in the interpretation of our analyses of significance and other statistical estimates, and challenges unraveling the determinants of variations in health policy performance in the Caribbean. A stepwise multivariate regression analysis with forward selection indicated that population density, ethnic fractionalization, number of years since independence, and rule of law explained 99% of the variation in the summary score (Table G, available as a supplement to the online version of this article at http://www.ajph.org). The small number of states did not allow us to tease out the interrelationships between the various country characteristics and a state’s summary score.
+
+Mackenbach and McKee’s assessment found that variations in population health between European countries are related to differences in health policy implementation.14,15 Our results suggest that this applies to Caribbean states as well. We do recognize, however, that implementation of best-practice health policies only partly explains the variation in population health among states. Better health outcomes can also reflect differences in medical care or more upstream factors, such as income inequalities and levels of education.
+
+So why have some Caribbean states been more successful in their pursuit of effective health policies than others? There were several country characteristics we found to be associated with the health policy performance summary score: sovereignty status, population density, GDP per capita, control of corruption, and the religious fractionalization index, with the strongest association for sovereignty status.
+
+The finding that population health is generally poorer in sovereign states than in politically affiliated Caribbean states has been described previously.12,21,22 One of the factors contributing to these differences is that sovereign states underwent decolonization (i.e., the transition from a colony to political independence). Decolonization weakens (colonial) bureaucracies23 and consequently challenges a state’s capacity to obtain the necessary resources to implement policy initiatives.12 In agreement with this, more than a decade after sovereign Caribbean states committed to address their populations’ noncommunicable disease crisis,24 health policy initiatives were still not implemented.5
+
+Another factor that possibly contributes to differences in health policy performance between sovereign and affiliated states is that the strong political, legal, and (socio)economic ties between affiliated states and their richer administrative countries may make health policy implementation more feasible—for example, through the rapid diffusion of tools and knowledge.25 Best-performer Martinique and third-best performer Guadeloupe are both French departments and have been considered an integral part of the French Republic since 1946. Their relatively stable political situation, the full French citizenship rights of their people, and a strong level of collaboration with continental France may explain their superior health outcomes. In contrast, Aruba, an autonomous country within the Kingdom of the Netherlands, whose inhabitants do not benefit from the health, educational, and social policies that apply to Dutch citizens in the Netherlands, has the lowest summary score of the included politically affiliated states; it performs considerably worse on breast cancer, lung cancer, and road traffic mortality, and on adolescent pregnancies. Aruba’s local government is considered responsible for the initiation, implementation, and evaluation of health policies, which may be too ambitious given its small population of approximately 100 000 inhabitants.
+
+Differences in health policy performance between European countries were attributed to differences in available resources (“means”) and differences in the willingness to take action (“will”). In other words, while adequate financial resources and functioning institutions must be present to introduce policies, another requirement is that politicians, policymakers, and health professionals acknowledge that a problem exists and are willing to take action accordingly.14,15 Besides sovereignty status, a Caribbean state’s pursuit of effective health policies was also related to the financial means they have available: 41% of the variation in the summary score was explained by GDP per capita. Nonetheless, some governments are doing more or less than expected based on their economic development. The Bahamas stands out as an underperformer: it has one of the highest GDPs per capita in the Caribbean, yet scored in the upper tertile for only 9 out of 50 indicators. The Bahamas covers 30 inhabited islands and is the least-densely populated territory. Low population density was related to poorer health policy performance in our analyses, which may reflect an impaired coverage of (public) health services.26
+
+In comparison, Cuba stands out as an overachiever in comparison with Caribbean states with a similar level of income. Cuba’s low economic development and relatively exceptional health outcomes challenge the idea that high economic development is a prerequisite for good population health.27 Moreover, Cuba’s counterfactual example also shows that relatively weak scores on governance performance measures such as government effectiveness, voice and accountability, regulatory quality, and rule of law do not exclude successful health policy implementation. Arguably, these findings may indicate that the “will” to implement policies is fundamental, and that the “means” required will then follow. Thus, Cuba’s example may illustrate that the link between population health and economic development can to some extent be broken when engaged technocrats, politicians, and civic leaders are committed to identifying health problems and thinking through solutions.28
+
+In the European context, the “will” to implement effective health policies increases when a population’s cultural attitude moves from traditional survival values, emphasizing economic and physical security, toward modern self-expression values, emphasizing rising demands of participation in decision-making in economic and political life.28 For Caribbean states, data on social values are limited. Nevertheless, our results show that where control of corruption was low, health policy performance was low as well.29 Corrupted practices are encouraged in collectivist societies where the focus is on relationships instead of tasks, and where the population accepts that power is distributed unequally.30,31 We also found that health policy performance is lower in states that are more religiously fragmented. Just as with ethnic heterogeneity in European countries,15 greater religious pluralism may affect health policy performance by lowering social cohesion between people of different groups. Dominant groups in religiously pluralistic states may be less willing to invest in public goods that benefit the whole population instead of their group in particular. Another possible explanation is that more-religious societies are less inclined to invest in policies that are incompatible with their religious norms, such as policies for HIV/AIDS and reproductive health.
+
+Public Health Implications
+Our results suggest that differences in health outcomes between Caribbean states are partly attributable to variations in the implementation of effective health policies. The calculation of excess deaths compared with best-performer Martinique shows the potential for considerable health gains in the Caribbean: an overall mortality reduction in the Caribbean as a whole of 12%. With these results, we hope to stimulate politicians, policymakers, and health professionals around the Caribbean to come into action and to combine their efforts to improve the health and well-being of their populations by implementing best-practice health policies. It is, however, likely that these efforts will remain challenged if the underlying political, economic, and cultural factors are not addressed.
