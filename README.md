@@ -1,4 +1,6 @@
 # snomed-ontology-parser
+The goal of this repository is to map medical text contents to a specific level of hierachy in the snomed ontology.
+
 
 ## Download Ontology Files
 You can download ontology files at https://bioportal.bioontology.org/ontologies/SNOMEDCT.
