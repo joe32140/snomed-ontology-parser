@@ -19,3 +19,8 @@ Note that sometimes the processed `pym.sqlite` file will be locked. Current work
 
 To find concept id from the interactive interface. 
 See https://bioportal.bioontology.org/ontologies/SNOMED_CF/?p=classes&conceptid=root. Note that this interface uses old version of the snomed ontology.
+
+## Example
+With the following text sentence: `Alterations in the hypocretin receptor 2 and preprohypocretin genes produce narcolepsy in some animals.` , this repo can find medical concepts from the sentence and map them to the snomed ontology.
+
+![image](https://i.imgur.com/Cr9aYBH.png)
