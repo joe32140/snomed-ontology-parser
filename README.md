@@ -4,7 +4,7 @@ The goal of this repository is to find medical text concepts from a document and
 # Packages
 Please follow intallation instructions in the following link:
 
-[scispacy](https://github.com/allenai/scispacy) = 3.2.4  
+[scispacy](https://github.com/allenai/scispacy) = 0.5
 [medspacy](https://github.com/medspacy/medspacy) = 0.2.0.0  
 [pymedtermino2](https://owlready2.readthedocs.io/en/latest/pymedtermino2.html) => Owlready2 = 0.37  
 
