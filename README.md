@@ -1,26 +1,85 @@
-# snomed-ontology-parser
-The goal of this repository is to find medical text concepts from a document and map them to a specific level of hierachy in the snomed ontology.
+# SNOMED Ontology Parser
 
-# Packages
-Please follow intallation instructions in the following link:
+A Python tool for extracting medical concepts from text and mapping them to the SNOMED-CT ontology hierarchy.
 
-[scispacy](https://github.com/allenai/scispacy) = 0.5.1  
-[medspacy](https://github.com/medspacy/medspacy) = 0.2.0.0  
-[pymedtermino2](https://owlready2.readthedocs.io/en/latest/pymedtermino2.html) => Owlready2 = 0.37  
+## Overview
 
-## Download UMLS and Snomed CT Files from the [UMLS website](https://www.nlm.nih.gov/research/umls/).
-You need to apply for permission to download the files.
-Follows this https://owlready2.readthedocs.io/en/latest/pymedtermino2.html.
+This repository provides functionality to:
+- Extract medical concepts from text documents
+- Map extracted concepts to SNOMED-CT ontology
+- Analyze concept distributions across different hierarchical levels
+- Visualize concept relationships and distributions
 
-## Run Notebook
-Please run `concept_distribution.ipynb` to find relations between parent concepts and child concepts.
-Note that sometimes the processed `pym.sqlite` file will be locked. Current work around is to copy the file and replace the original file and run the notebook again as shown in `remove_sql_lock.sh`. 
+## Prerequisites
 
+### 1. Required Python Packages
 
-To find concept id from the interactive interface. 
-See https://bioportal.bioontology.org/ontologies/SNOMEDCT?p=classes. Note that this interface uses old version of the snomed ontology.
+Install the following packages with their specific versions:
+- [scispacy](https://github.com/allenai/scispacy) (v0.5.1)
+- [medspacy](https://github.com/medspacy/medspacy) (v0.2.0.0)
+- [Owlready2](https://owlready2.readthedocs.io/en/latest/pymedtermino2.html) (v0.37) - Required for pymedtermino2
+
+### 2. UMLS and SNOMED-CT Access
+
+1. Apply for UMLS access at the [UMLS website](https://www.nlm.nih.gov/research/umls/)
+2. Download the required UMLS and SNOMED-CT files
+3. Follow the setup instructions in the [pymedtermino2 documentation](https://owlready2.readthedocs.io/en/latest/pymedtermino2.html)
+
+## Installation
+
+1. Clone this repository:
+```bash
+git clone https://github.com/yourusername/snomed-ontology-parser.git
+cd snomed-ontology-parser
+```
+
+2. Create and activate the conda environment:
+```bash
+conda env create -f environment.yml
+conda activate snomed-parser
+```
+
+## Usage
+
+### Running the Analysis
+
+1. Place your UMLS data files in the `./data` directory
+2. Run the Jupyter notebook:
+```bash
+jupyter notebook concept_distribution.ipynb
+```
+
+Note: If you encounter a locked `pym.sqlite` file error, use the provided script:
+```bash
+bash remove_sql_lock.sh
+```
+
+### Finding Concept IDs
+
+To look up specific concept IDs, you can use the [SNOMED CT Browser](https://bioportal.bioontology.org/ontologies/SNOMEDCT?p=classes)
+(Note: The browser may use an older version of the SNOMED ontology)
 
 ## Example
-With the following text sentence: `Alterations in the hypocretin receptor 2 and preprohypocretin genes produce narcolepsy in some animals.` , this repo can find medical concepts from the sentence and map them to the snomed ontology.
 
-![image](https://i.imgur.com/Cr9aYBH.png)
+Input text:
+```
+Alterations in the hypocretin receptor 2 and preprohypocretin genes produce narcolepsy in some animals.
+```
+
+Output visualization:
+![Concept Mapping Example](https://i.imgur.com/Cr9aYBH.png)
+
+## Project Structure
+
+```
+snomed-ontology-parser/
+├── src/
+│   ├── main.py              # Main application entry point
+│   ├── concept_extractor.py # Extracts medical concepts from text
+│   ├── concept_analyzer.py  # Analyzes concept distributions
+│   └── data_loader.py       # Handles UMLS data loading
+├── data/                    # Directory for UMLS data files
+├── concept_distribution.ipynb
+├── environment.yml
+└── remove_sql_lock.sh
+```
